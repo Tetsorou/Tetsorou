@@ -24,8 +24,9 @@ and all things linux
 ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-![](https://nirzak-streak-stats.vercel.app/?user=Tetsorou&theme=catppuccin_mocha&hide_border=false)<br/>
 # 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=Tetsorou&theme=catppuccin_mocha&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api?username=Tetsorou&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 
 
