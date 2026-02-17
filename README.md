@@ -24,14 +24,11 @@ and all things linux
 ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-
+![](https://nirzak-streak-stats.vercel.app/?user=Tetsorou&theme=catppuccin_mocha&hide_border=false)<br/>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tetsorou&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sly-Harvey&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sly-Harvey&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true) -->
