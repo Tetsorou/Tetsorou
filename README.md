@@ -1,8 +1,8 @@
 # About Me:
-Hello, my name Tetsorou, and I'm an ambitious learner.<br>
+Hello, my name's Tetsorou.<br>
 My dream is to get a house in japan and become a Penetration tester<br>
 ###  Some of my interests and hobbies:
-Playing Minecraft, Cubetory, and bopl battle with friends<br>
+Playing Minecraft and bopl battle<br>
 Reverse engineering<br>
 Game development<br>
 Electronics<br>
